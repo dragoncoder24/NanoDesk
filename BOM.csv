@@ -1,7 +1,7 @@
 Part,Description,Source / Link,Price (USD),Notes
 Raspberry Pi 4B / 3B+,Main board (already owned),-,-,Your existing Pi
 Raspberry Pi Touch Display,5 800x480 touchscreen with HDMI & touch,https://www.mouser.com/ProductDetail/Raspberry-Pi/SC1975,40,-
-Li-ion Battery HAT,5V output, powers Pi and peripherals,https://www.waveshare.com/li-ion-battery-hat.htm,18.99,Provides integrated portable power
+Li-ion Battery HAT 5V output, powers Pi and peripherals,https://www.waveshare.com/li-ion-battery-hat.htm,18.99,Provides integrated portable power
 Geekworm X1201 UPS Shield,Battery management, UPS for Pi,https://geekworm.com/products/x1201?variant=47823745974585&country=US&currency=USD,43,Optional for stable voltage, recommended if using screen + camera
 Micro SD Card,32–128GB, Class 10 or better,https://www.amazon.com/s?k=micro+sd+card,10-20,For OS & storage
 Mini Camera Module,Pi Camera or compatible,https://www.raspberrypi.com/products/camera-module-v2/,25,5–8MP camera for image capture
@@ -9,5 +9,6 @@ USB Audio / DAC Module,Small audio output,https://www.adafruit.com/product/3006,
 Jumper wires / headers,Connect HATs & modules,https://www.amazon.com/s?k=raspberry+pi+jumper+wires,5,Needed if connecting custom board
 
 Screws / spacers,Mounting display / HATs,Local,2-5,Optional, DIY assembly
+
 
 
