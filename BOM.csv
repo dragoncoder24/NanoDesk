@@ -1,7 +1,8 @@
 "Part","Description","Source / Link","Price (USD)","Quantity","Notes"
-"Raspberry Pi 4B / 3B+","Main board (already owned)","-","0","1","Your existing Pi"
+"Raspberry Pi 4B / 3B+","Main board","https://www.raspberrypi.com/products/raspberry-pi-4-model-b/","35","1","Main Board"
 "7-inch Touch Display","7-inch 800x480 touchscreen, HDMI + touch","https://www.amazon.com/dp/B0BZGW51FY","40","1","Compact"
 "Li-ion Battery HAT","5V output power module for Pi","https://www.waveshare.com/li-ion-battery-hat.htm","18.99","1","Portable power"
 "Camera Module","Raspberry Pi Camera Module V2, 8MP","https://www.raspberrypi.com/products/camera-module-v2/","25","1","Standard Pi cam"
 "Microphone Module","Mini USB microphone","https://www.adafruit.com/product/3367","12.50","1","Small, Pi compatible"
+
 
